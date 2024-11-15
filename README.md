@@ -3,7 +3,8 @@
 
 ### Ex. No. :8 CONFIGURING ANALOG PORT TO INTEFACE AN ANALOG SENSOR AND READ THE VALUES USING SERIAL PORT 
 ###  
-
+## NAME: SIVABALAN S
+## REGNO: 212222240100
 ## Aim: 
 To configure ADC channel for interfacing an analog sensor and read the values on the com port 
 ## Components required:
@@ -236,7 +237,6 @@ void assert_failed(uint8_t *file, uint32_t line)
 
  
 ## Output screen shots of proteus :
-SIVA CHANDRAN R(212222240099)
 ![image](https://github.com/user-attachments/assets/63489749-7c15-4501-96fa-fe8cb578ce5d)
 
 ![image](https://github.com/user-attachments/assets/6384693b-69f7-4b4f-aa25-e7700da38b11)
